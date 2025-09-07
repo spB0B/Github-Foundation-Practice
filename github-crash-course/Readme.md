@@ -99,4 +99,4 @@ pbcopy < ~/.ssh/id_ed25519.pb
 ```
 Copy the public key and paste it in the key section of the GitHub. Now you can clone the repo using the command `ssh git@github.com:spB0B/Github-Foundation-Practice.git`
 
-hello
+hello!
