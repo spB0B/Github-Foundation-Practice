@@ -126,4 +126,13 @@ this loads the private key to memory so you don't have to use that evey time you
 ```sh
 pbcopy < ~/.ssh/id_ed25519.pb
 ```
-Copy the public key and paste it in the key section of the GitHub. Now you can clone the repo using the command `ssh git@github.com:spB0B/Github-Foundation-Practice.git`..,,,
+Copy the public key and paste it in the key section of the GitHub. Now you can clone the repo using the command `ssh git@github.com:spB0B/Github-Foundation-Practice.git`..
+
+## Repo insights
+
+this is about the statistical graphs. this contains :
+1. pulse
+1. contributors
+1. community standards
+1. commits
+1. code frequency
